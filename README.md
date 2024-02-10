@@ -1,1 +1,1 @@
-# final_project_dicoding_dasar_machine_learning
+# final_project_dicoding_basic_machine_learning
